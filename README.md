@@ -1,10 +1,6 @@
 <!-- Profile Banner -->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlqazdtYjVncmYya3ZucmNmdnljdDhxdnBzMXNmaW9nb3ZzM3ZkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie4CIIvQS0bk3zwZlM/giphy.gif" width="100%" alt="coding animation" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00B2FF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+WaveBear+Nguyễn+🐻;Fullstack+Developer+%F0%9F%92%BB;Love+Code%2C+Music+and+Coffee+%E2%98%95%EF%B8%8F;Let's+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
 <h3 align="center">🌱 Sống một cuộc đời đáng sống 🌱</h3>
 
 > “Đừng bao giờ ngại ngùng trước bất kỳ thử thách nào.  
