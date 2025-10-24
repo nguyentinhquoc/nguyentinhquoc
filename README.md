@@ -1,38 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WaveBear Nguyễn
-=======================================================================================================================================
+<!-- Profile Banner -->
+<img src="https://i.pinimg.com/originals/1b/09/d7/1b09d7e6c9e56df5da8e24e49a803bfd.gif" width="100%" alt="Banner" />
 
-Sống một cuộc đời đáng sống
----------------------------
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00B2FF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+WaveBear+Nguyễn+🐻;Fullstack+Developer+%F0%9F%92%BB;Love+Code%2C+Music+and+Coffee+%E2%98%95%EF%B8%8F;Let's+Build+Something+Great+Together+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-"Đừng bao giờ ngại ngùng trước bất kỳ những thử thách nào. Nếu như chúng ta không thử chúng ta sẽ không biết có vượt qua hay không? Còn nếu như chúng ta thử, có thể chúng ta vượt qua, có thể chúng ta không vượt qua đi chăng nữa thì ít nhất chúng ra dám thử thách, và đấy là THANH XUÂN"
+<h3 align="center">🌱 Sống một cuộc đời đáng sống 🌱</h3>
 
-* 🌍  I'm based in Ninh Bình
-* ✉️  You can contact me at [nguyentinh140321@gmail.com](mailto:nguyentinh140321@gmail.com)
+> “Đừng bao giờ ngại ngùng trước bất kỳ thử thách nào.  
+> Nếu như chúng ta không thử, chúng ta sẽ không biết có vượt qua hay không.  
+> Còn nếu như chúng ta thử — dù vượt qua hay không — ít nhất chúng ta **đã dám thử**,  
+> và đó chính là **THANH XUÂN**.”
 
-### Skills
+---
 
+### 🧭 About Me
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+- 🌍  **Based in:** Ninh Bình, Việt Nam  
+- ✉️  **Email:** [nguyentinh140321@gmail.com](mailto:nguyentinh140321@gmail.com)  
+- 💻  **Role:** Fullstack Developer (NestJS • React • NextJS)  
+- 🧠  **Currently Learning:** Microservices, Docker, DevOps  
+- ⚡  **Fun fact:** Mình có thể code xuyên đêm nếu có nhạc chill và cà phê ☕  
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,nextjs,html,css,tailwind,bootstrap,php,laravel,python,mysql,postgresql,mongodb,redis,docker,git,linux,vscode,figma" />
 </p>
 
+---
 
-### Socials
+### 🧩 Tools & Environment
 
-<p align="left"> <a href="https://www.facebook.com/PTU1403NQT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nguyentinhquoc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Zsh-green?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel-black?logo=vercel&logoColor=white" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🌐 Connect with Me
 
-<a href="http://www.github.com/nguyentinhquoc"><img src="https://github-readme-stats.vercel.app/api?username=nguyentinhquoc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nguyentinhquoc's GitHub stats" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/PTU1403NQT" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/nguyentinhquoc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<a href="http://www.github.com/nguyentinhquoc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentinhquoc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/nguyentinhquoc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyentinhquoc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 📊 GitHub Stats
 
-<a href="https://github.com/nguyentinhquoc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentinhquoc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyentinhquoc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<b>Top Repositories</b>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentinhquoc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyentinhquoc&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=00bcd4&line=00bcd4&point=ffffff" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentinhquoc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 💎 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/nguyentinhquoc/base-nestjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentinhquoc&repo=base-nestjs&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nguyentinhquoc/be-api-product-mkt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyentinhquoc&repo=be-api-product-mkt&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🔥 “Keep learning, keep coding, keep shining.” 🔥</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
+</p>
